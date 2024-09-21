@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Michael Vahn
+name: Xiaoyang Hou
 avatar_image: "user-full.png"
 # Username (this should match the folder name)
 authors:
